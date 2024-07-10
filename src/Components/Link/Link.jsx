@@ -10,7 +10,7 @@ const Link = ({ route }) => {
     );
 };
 
-Link.PropTypes = {
+Link.propTypes = {
     route: PropTypes.object
 }
 

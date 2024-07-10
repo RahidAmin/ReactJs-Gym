@@ -12,6 +12,6 @@ const Feature = ({ feature }) => {
 
 export default Feature;
 
-Feature.PropTypes = {
+Feature.propTypes = {
     feature: PropTypes.string
 }
